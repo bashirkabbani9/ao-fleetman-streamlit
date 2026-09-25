@@ -1,5 +1,8 @@
 # AO Fleetman, Streamlit build
 
+> Demonstration project. Every vehicle, registration, repair and cost in this
+> repository is fictional generated sample data. It is not an AO fleet record.
+
 A read-only fleet operations view for AO Transport: the whole fleet, vehicles off the
 road, depot comparison, utilisation, VOR trends, and a history based estimate of when
 a vehicle under repair comes back.
