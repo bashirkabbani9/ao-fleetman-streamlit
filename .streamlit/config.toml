@@ -1,0 +1,14 @@
+# AO brand theme. ON Green is the primary fill, Dark Green carries all the text,
+# because ON Green on white is about 2.2:1 and fails as readable text.
+[theme]
+primaryColor = "#12C35A"
+backgroundColor = "#FBFDFC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#02422B"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
